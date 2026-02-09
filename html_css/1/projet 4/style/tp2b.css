@@ -1,0 +1,19 @@
+p {
+    font-size : 14px;
+    font-family: Helvetica;
+}
+body {
+    background-color: aqua;
+}
+.maclasse { 
+    padding: 10px;
+}
+#monid {
+    border : 3px solid red;
+    margin : 20px;
+}
+
+#superid {
+    color : red;
+    text-transform: uppercase;
+}

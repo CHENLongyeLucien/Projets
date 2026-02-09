@@ -1,0 +1,130 @@
+body {
+    background-color: lightgrey;
+}
+
+main {
+    background-color: white;
+    overflow: auto;
+    padding-bottom: 10px;
+}
+
+.big {
+    background-color: white;
+    width: 700px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+header {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+    background-color: grey;
+}
+
+span {
+    background-color: white;
+    height: 50px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: grey;
+}
+
+h1 {
+    text-align: center;
+    color: grey;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+footer {
+    background-color: grey;
+    width: 700px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+.side {
+    float: left;
+    background-color: lightgrey;
+    width: 200px;
+    height: 390px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: grey;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+.smol {
+    float: right;
+    margin-right: 30px;
+}
+
+.s1 {
+    background-color: lightgrey;
+    height: 60px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: grey;
+}
+
+.s2 {
+    margin-top: 20px;
+    height: 310px;
+    width: 400px;
+    background-color: lightgrey;
+}
+
+.random {
+    height: 60px;
+    width: 400px;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+.articles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.article1, .article2, .article3 {
+    height: 220px;
+    width: 110px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+
+

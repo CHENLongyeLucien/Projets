@@ -1,0 +1,12 @@
+table, th, tr {
+    border: 1px solid black;
+}
+th, tr {
+    padding : 10px;
+}
+tr:nth-child(odd){
+    background-color: aqua;
+}
+tr:last-child{
+    color : red;
+}

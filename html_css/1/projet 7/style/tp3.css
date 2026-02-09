@@ -1,0 +1,42 @@
+.big {
+    width: 1024px;
+    height: 590px;
+    margin: auto;
+    background-color: blue;
+}
+
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+
+.rouge {
+    color: red;
+    text-decoration: underline;
+}
+
+.gauche {
+    float: left;
+    background-color: green;
+    margin: 1%;
+    height: 120px;
+    width: 300px;
+}
+
+.p1 {
+    text-align: center;
+}
+
+.droite {
+    float: right;
+    background-color: orange;
+    margin: 1%;
+    height: 400px;
+    width: 600px;
+}
+
+.p3 {
+    text-align: center;
+}
